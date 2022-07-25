@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sat Jul  9 18:07:29 2022
+# Process ID: 39093
+# Current directory: /home/ypwang/project_code/Xilinx_Summer_School/summter_lab
+# Command line: vivado
+# Log file: /home/ypwang/project_code/Xilinx_Summer_School/summter_lab/vivado.log
+# Journal file: /home/ypwang/project_code/Xilinx_Summer_School/summter_lab/vivado.jou
+#-----------------------------------------------------------
+start_gui
+INFO: [Vivado 12-8231] Launching Vitis
+INFO: [Vivado 12-417] Running vitis
+open_project /home/ypwang/project_code/Xilinx_Summer_School/summter_lab/summer_lab_01/summer_lab_01.xpr
+INFO: [Project 1-313] Project file moved from '/home/ypwang/project_code/Xilinx_Summer_School/summer_lab_01' since last save.
+INFO: [filemgmt 56-1] Board Part Repository Path: Directory not found as '/home/ypwang/project_code/.Xilinx/Vivado/2021.1/xhub/board_store/xilinx_board_store'; using path '/home/ypwang/.Xilinx/Vivado/2021.1/xhub/board_store/xilinx_board_store' instead.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/home/ypwang/software/Vivado/2021.1/data/ip'.
+INFO: [IP_Flow 19-3899] Cannot get the environment domain name variable for the component vendor name. Setting the vendor name to 'user.org'.
+update_compile_order -fileset sources_1
+INFO: [Vivado 12-8231] Launching Vitis
+INFO: [Vivado 12-417] Running vitis
+INFO: [Vivado 12-8231] Launching Vitis
+INFO: [Vivado 12-417] Running vitis
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Jul  9 19:53:11 2022...

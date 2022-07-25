@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sat Jul  9 18:07:29 2022
+# Process ID: 39093
+# Current directory: /home/ypwang/project_code/Xilinx_Summer_School/summter_lab
+# Command line: vivado
+# Log file: /home/ypwang/project_code/Xilinx_Summer_School/summter_lab/vivado.log
+# Journal file: /home/ypwang/project_code/Xilinx_Summer_School/summter_lab/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project /home/ypwang/project_code/Xilinx_Summer_School/summter_lab/summer_lab_01/summer_lab_01.xpr
+update_compile_order -fileset sources_1

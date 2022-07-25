@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]/home/ypwang/project_code/vitis_workspace/zynq_fsbl_test/Debug/zynq_fsbl_test.elf
+	/home/ypwang/project_code/vitis_workspace/wyp_lab8_platform/hw/system_wrapper.bit
+	/home/ypwang/project_code/vitis_workspace/wyp_lab8_helloworld/Debug/wyp_lab8_helloworld.elf
+}

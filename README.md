@@ -1,2 +1,8 @@
 # 2022 Xilinx_Summer_School
-2022 AMD-Xilinx Summer School 
+
+## 1. zynq  实验
+
+- UART0和UART1用错导致bug 【已解决，通过比对成功实验和失败实验解决bug】
+  - 心得：对于不一样的板卡在进行实验的时候，一定需要看一下电路原理图
+- 按键、按钮开关引脚约束
+  - 
